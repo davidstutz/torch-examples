@@ -6,11 +6,7 @@ This repository contains some of the [Torch](https://github.com/torch) examples 
 
 ## License
 
-Most examples and libraries are based on examples from all over the world wide web. Usually this is indicated by the corresponding URL within the source code.
-
-All other examples are licensed under the BSD 3-Clause License:
-
-Copyright (c) 2015 - 2016, David Stutz
+Copyright (c) 2017, David Stutz
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
