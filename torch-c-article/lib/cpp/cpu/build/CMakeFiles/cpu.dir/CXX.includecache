@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/BS/dstutz/work/torch/torch-c-article/lib/cpp/cpu/test_identity_module.cpp
+cstdio
+-
+cassert
+-
+test_identity_module.h
+/BS/dstutz/work/torch/torch-c-article/lib/cpp/cpu/test_identity_module.h
+
+/BS/dstutz/work/torch/torch-c-article/lib/cpp/cpu/test_identity_module.h
+
+/BS/dstutz/work/torch/torch-c-article/lib/cpp/cpu/test_module.cpp
+cstdio
+-
+cassert
+-
+test_module.h
+/BS/dstutz/work/torch/torch-c-article/lib/cpp/cpu/test_module.h
+
+/BS/dstutz/work/torch/torch-c-article/lib/cpp/cpu/test_module.h
+

@@ -1,12 +1,17 @@
-# C++ Resources
+# Torch Examples
 
 This repository contains some of the [Torch](https://github.com/torch) examples discussed in the following articles:
 
 * [Examples for Getting Started with Torch for Deep Learning](http://davidstutz.de/examples-for-getting-started-with-torch-for-deep-learning/)
+* [Implementing Torch Modules in C/CUDA](https://davidstutz.de/implementing-torch-modules-in-c-cuda/)
+* [PointNet Auto-Encoder in Torch](https://davidstutz.de/pointnet-auto-encoder-in-torch/)
+* [Variational Auto-Encoder in Torch](https://davidstutz.de/variational-auto-encoder-in-torch/)
+* [Denoising Variational Auto-Encoder in Torch](https://davidstutz.de/denoising-variational-auto-encoder-in-torch/)
+* [Bernoulli Variational Auto-Encoder in Torch](https://davidstutz.de/bernoulli-variational-auto-encoder-in-torch/)
 
 ## License
 
-Copyright (c) 2017, David Stutz
+Copyright (c) 2017-2019, David Stutz
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:

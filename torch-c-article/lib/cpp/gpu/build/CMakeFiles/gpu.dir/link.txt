@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC --std=gnu++11  -O3 -g  -shared -Wl,-soname,libgpu.so -o libgpu.so CMakeFiles/gpu.dir/gpu_generated_test_identity_module.cu.o -Wl,-Bstatic -lcudart_static -Wl,-Bdynamic -lpthread -ldl -lrt -Wl,-Bstatic -lcudart_static -Wl,-Bdynamic -lpthread -ldl -lrt 

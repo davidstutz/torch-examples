@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC --std=gnu++11  -O3 -g  -shared -Wl,-soname,libcpu.so -o libcpu.so CMakeFiles/cpu.dir/test_module.cpp.o CMakeFiles/cpu.dir/test_identity_module.cpp.o 
